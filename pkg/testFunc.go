@@ -3,9 +3,9 @@ package pkg
 import "fmt"
 
 func HelloGit() {
-	fmt.Println("hello, git")
+	fmt.Printf("hello, git")
 }
 
 func HelloWorld() {
-	fmt.Println("hello, world")
+	fmt.Printf("hello, world")
 }
