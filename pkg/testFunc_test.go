@@ -3,9 +3,9 @@ package pkg
 import "testing"
 
 func TestHelloGit(t *testing.T) {
-	HelloGit()
+	helloGit()
 }
 
 func TestHelloWorld(t *testing.T) {
-	HelloWorld()
+	helloWorld()
 }

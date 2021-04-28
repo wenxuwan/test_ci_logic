@@ -1,11 +1,9 @@
 package pkg
 
-// HelloGit
-func HelloGit() {
+func helloGit() {
 
 }
 
-// HelloGit
-func HelloWorld() {
+func helloWorld() {
 
 }
