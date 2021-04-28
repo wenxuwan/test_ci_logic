@@ -1,11 +1,11 @@
 package pkg
 
-import "fmt"
-
+// HelloGit
 func HelloGit() {
-	fmt.Printf("hello, git")
+
 }
 
+// HelloGit
 func HelloWorld() {
-	fmt.Printf("hello, world")
+
 }
