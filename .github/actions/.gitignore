@@ -1,5 +1,0 @@
-./dubbo-go-pixiu
-/logs
-/.idea
-/.vscode
-pkg/registry/zookeeper-4unittest/contrib/fatjar
