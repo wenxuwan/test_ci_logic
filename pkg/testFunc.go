@@ -2,10 +2,10 @@ package pkg
 
 import "fmt"
 
-func HelloGit(){
+func HelloGit() {
 	fmt.Println("hello, git")
 }
 
-func HelloWorld(){
+func HelloWorld() {
 	fmt.Println("hello, world")
 }

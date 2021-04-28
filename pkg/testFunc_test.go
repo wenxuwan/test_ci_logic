@@ -2,7 +2,7 @@ package pkg
 
 import "testing"
 
-func TestHelloGit(t *testing.T){
+func TestHelloGit(t *testing.T) {
 	HelloGit()
 }
 
